@@ -1,4 +1,15 @@
-﻿internal class Program
+﻿// - (cwl)Escolha sua bebida:
+// - (opcoes):
+// 	-Guarana
+// 	-Coca-cola
+// 	-Agua
+// 	-Cerveja
+// - (crl) 
+// - (cwl)Gostaria de acressentar gelo? ('s' para sim, 'n' para nao)
+// - (crl)
+// - (cwl)cSua bebida esta sendo feita ...
+
+internal class Program
 {
     private static void Main(string[] args)
     {
