@@ -5,7 +5,7 @@
 // 	-Agua
 // 	-Cerveja
 // - (crl) 
-// - (cwl)Gostaria de acressentar gelo? ('s' para sim, 'n' para nao)
+// - (cwl)Gostaria de acrecentar gelo? ('s' para sim, 'n' para nao)
 // - (crl)
 // - (cwl)cSua bebida esta sendo feita ...
 
