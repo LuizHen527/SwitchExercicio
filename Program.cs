@@ -68,6 +68,10 @@ Escolha sua bebida:
             }
             break;
             
+            default:
+            Console.WriteLine($"Nao foi possivel ler esse comando");
+            break;
+            
         }
     }
 }
